@@ -30,7 +30,7 @@ Within the Informatics Center, we value the health of our community as much as w
 
 ### 🔢 Versioning
 
-At present, only the source code and its data are being made public.
+We use the [SemVer](https://semver.org/) philosophy for versioning this software.
 
 
 ## 📃 License

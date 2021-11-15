@@ -5,7 +5,11 @@ This document describes the security policy of Random Decision Forests.
 
 ## 🔢 Supported Versions
 
-Currently, no official versions of this software have been released.
+The following table describes what versions of this software are supported and which are not:
+
+| Version | Supported? |
+|:-------:|:----------:|
+| 1.0.0   | ✅         |
 
 
 ## 👮‍♀️ Reporting a Vulnerability
